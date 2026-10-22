@@ -86,22 +86,4 @@ I'm a student at **HSE University** and a developer who builds **data analytics 
 | **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-## 📈 GitHub stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sena22555&show_icons=true&hide_border=true&bg_color=00000000&title_color=4d97ea&icon_color=4d97ea&text_color=e6edf3&count_private=true&rank_icon=github">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sena22555&show_icons=true&hide_border=true&bg_color=00000000&title_color=2a78d6&icon_color=2a78d6&text_color=1f2328&count_private=true&rank_icon=github" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena22555&layout=compact&hide_border=true&bg_color=00000000&title_color=4d97ea&text_color=e6edf3&langs_count=6">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena22555&layout=compact&hide_border=true&bg_color=00000000&title_color=2a78d6&text_color=1f2328&langs_count=6" alt="Top languages">
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sena22555&hide_border=true&background=00000000&ring=4D97EA&fire=4D97EA&currStreakLabel=4D97EA&stroke=30363D&sideNums=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&dates=8B949E">
-    <img src="https://streak-stats.demolab.com?user=Sena22555&hide_border=true&background=00000000&ring=2A78D6&fire=2A78D6&currStreakLabel=2A78D6&stroke=D0D7DE&sideNums=1F2328&sideLabels=1F2328&currStreakNum=1F2328&dates=656D76" alt="GitHub streak">
-  </picture>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d97ea,100:184f95&height=110&section=footer" width="100%" alt=""/>
