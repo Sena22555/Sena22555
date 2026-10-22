@@ -1,6 +1,6 @@
 <!-- Arsenij Sadovskij · GitHub profile -->
 <a href="https://github.com/Sena22555">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d97ea,100:184f95&height=210&section=header&text=Arsenij%20Sadovskij&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20%40%20HSE%20University%20%C2%B7%20Developer%20%C2%B7%20Data%20Analyst&descSize=19&descAlignY=58" width="100%" alt="Arsenij Sadovskij"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d97ea,100:184f95&height=210&section=header&text=Arsenij%20Sadovskij&fontSize=52&fontColor=ffffff&animation=none&fontAlignY=36&desc=Student%20%40%20HSE%20University%20%C2%B7%20Developer%20%C2%B7%20Data%20Analyst&descSize=19&descAlignY=58" width="100%" alt="Arsenij Sadovskij"/>
 </a>
 
 <div align="center">
