@@ -70,8 +70,8 @@ I'm a student at **HSE University** and a developer who builds **data analytics 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,html,css,spring,maven,qt,sqlite,d3,git,github,vscode,idea&theme=dark&perline=15">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,spring,maven,qt,sqlite,d3,git,github,vscode,idea&theme=light&perline=15" alt="Tech stack icons">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cjs%2Cts%2Chtml%2Ccss%2Cspring%2Cmaven%2Cqt%2Csqlite%2Cd3%2Cgit%2Cgithub%2Cvscode%2Cidea&theme=dark&perline=15">
+    <img src="https://skillicons.dev/icons?i=python%2Cjava%2Cjs%2Cts%2Chtml%2Ccss%2Cspring%2Cmaven%2Cqt%2Csqlite%2Cd3%2Cgit%2Cgithub%2Cvscode%2Cidea&theme=light&perline=15" alt="Tech stack icons">
   </picture>
 </div>
 
